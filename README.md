@@ -1,2 +1,2 @@
 # ML-REGRESSION-PROJECTS
- This repo contains regression machine learning codes with python
+ This Repo contains Machine Learning Projects (Regression ) I have carried out
