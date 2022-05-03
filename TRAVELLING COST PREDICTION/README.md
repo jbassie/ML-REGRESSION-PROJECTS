@@ -6,8 +6,8 @@ The South African census collects data on female headship and income levels of e
 The objective of this project is to build a predictive model that accurately estimates the percentage of households per ward that are female-headed and living below a particular income threshold, by using data points that can be collected through other means without an intensive household survey like the census.
 
 # DATA
-- Test.csv  - https://github.com/jbassie/ML-REGRESSION-PROJECTS/blob/main/TRAVELLING%20COST%20PREDICTION/Test.csv
-- Train.csv - https://github.com/jbassie/ML-REGRESSION-PROJECTS/blob/main/TRAVELLING%20COST%20PREDICTION/Train.csv 
+- [Test.csv](https://github.com/jbassie/ML-REGRESSION-PROJECTS/blob/main/TRAVELLING%20COST%20PREDICTION/Test.csv)
+- [Train.csv](https://github.com/jbassie/ML-REGRESSION-PROJECTS/blob/main/TRAVELLING%20COST%20PREDICTION/Train.csv)
 
 # USAGE
  - Jupyter Notebook
